@@ -17,20 +17,20 @@ The data cleaning process aims to achieve the following goals:
 
 ###  Dirty Data Files 🗑️
 Here are the four dirty data files of this project that needs to be cleaned:   
-[File 1]   
-[File 2]   
-[file 3]   
-[file 4]  
+[File 1](https://github.com/Susmita1703/Data-Cleaning-project-using-Python-/blob/main/Data%20cleaning%20.adverse_reactions.csv)   
+[File 2](https://github.com/Susmita1703/Data-Cleaning-project-using-Python-/blob/main/Data%20cleaning.patients.csv)   
+[file 3](https://github.com/Susmita1703/Data-Cleaning-project-using-Python-/blob/main/Data%20cleaning.treatments.csv)  
+[file 4](https://github.com/Susmita1703/Data-Cleaning-project-using-Python-/blob/main/Data%20cleaning.treatments_cut.csv)  
 
 After observing the four files, I have concluded that it would be better to combine them and create two tables to complete the full cleaning process and prepare the data for analysis.  
 ### cleaned data files ✨  
 The link of following cleaned data files are given below  
-[file 1]  
-[file 2]  
+[file 1](https://github.com/Susmita1703/Data-Cleaning-project-using-Python-/blob/main/updated_patients_detailed_table.csv)  
+[file 2](https://github.com/Susmita1703/Data-Cleaning-project-using-Python-/blob/main/updated_treatments_detailed_table.csv)  
 
 ### The file given below includes all the steps that I have used to clean the data using python
 
-[python file]
+[python file](https://github.com/Susmita1703/Data-Cleaning-project-using-Python-/blob/main/Data%20cleaning%20file.ipynb)
 
 ## Conclusion 📌
 
