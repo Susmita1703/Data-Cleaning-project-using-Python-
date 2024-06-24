@@ -12,7 +12,7 @@ The data cleaning process aims to achieve the following goals:
 ## Dataset summary 🗂️
  The data files are organized into four tables which includes information about patient details, medicines used to treat patients, problems/conditions of the patients, and reactions of  medications in the patients. These tables are currently unstructured and contain a significant amount of dirty data,which includes inconsistencies, errors, and missing values. The goal is to convert this data into an usable and clean format.
 
- **Details of each column in the files, providing comprehensive information about the data, are given below.** 
+ **Details of each column in the files, providing comprehensive information about the data, are given below.**  
  [column details file](https://github.com/Susmita1703/Data-Cleaning-project-using-Python-/blob/main/Dataset%20content%20details.pdf)
 
 ###  Dirty Data Files 🗑️
